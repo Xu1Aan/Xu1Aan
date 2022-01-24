@@ -1,7 +1,9 @@
 
 ### Hi, I'm Xu1An  👩🏾‍💻:man::computer:
 
-<img src="https://pic1.zhimg.com/v2-52bd4282756861f93d8e74c70d4a165e_r.jpg?source=1940ef5c" alt="Hello world">
+<p align="center"> 
+ <img src="https://pic1.zhimg.com/v2-52bd4282756861f93d8e74c70d4a165e_r.jpg?source=1940ef5c" alt="Hello world">
+</p>
 
 **About me**
 - 🔭 I’m currently working on State Key Laboratory of Public Big Data of GZU
