@@ -1,12 +1,7 @@
 
 ### Hi, I'm Xu1An  👩🏾‍💻:man::computer:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://pic3.zhimg.com/v2-d6cf5342ae2b5852e998bf9c742519e9_r.jpg?source=1940ef5c" />
-</p>
+<img src="https://pic1.zhimg.com/v2-52bd4282756861f93d8e74c70d4a165e_r.jpg?source=1940ef5c" alt="Hello world">
 
 **About me**
 - 🔭 I’m currently working on State Key Laboratory of Public Big Data of GZU
