@@ -5,6 +5,11 @@
  <img src="https://pic1.zhimg.com/v2-52bd4282756861f93d8e74c70d4a165e_r.jpg?source=1940ef5c" alt="Hello world">
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/GouYuQing/count.svg" />
+</p>
+
 **About me**
 - 🔭 I’m currently studying on State Key Laboratory of Public Big Data of GZU
 - 🌱 I’m currently learning **Machine Learning & JavaWEB(前端 后台)**
