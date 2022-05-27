@@ -13,8 +13,8 @@
 **About me**
 - 🔭 I’m currently studying at State Key Laboratory of Public Big Data of GZU
 - 🌱 I’m currently learning **Machine Learning & Java(大数据、WEB后台)**
-- 👯 I’m looking to collaborate on Deep Learning (CV、Increment Learning、Metric Learning)
-- 🤔 I’m looking for help with writing paper
+- 👯 I’m looking to collaborate on Deep Learning (Increment Learning) and bigdata
+- 🤔 I’m looking for help with writing paper and Looking for a job
 - 📫 How to reach me: <a href="mailto:gs.axu21@gzu.edu.cn">toxuan1998@qq.com</a>
 
 
