@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Machine Learning & Java(大数据、WEB后台)**
 - 👯 I’m looking to collaborate on Deep Learning (CV、Increment Learning、Metric Learning)
 - 🤔 I’m looking for help with writing paper
-- 📫 How to reach me: <a href="mailto:gs.axu21@gzu.edu.cn">gs.axu21@gzu.edu.cn</a>
+- 📫 How to reach me: <a href="mailto:gs.axu21@gzu.edu.cn">toxuan1998@qq.com</a>
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xu1Aan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xu1Aan&layout=compact&theme=buefy&hide_border=true" /></a> |
