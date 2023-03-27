@@ -14,8 +14,8 @@
 - 🔭 I’m currently studying at State Key Laboratory of Public Big Data of GZU
 - 🌱 I’m currently learning **Machine Learning & Java(大数据、WEB后台)**
 - 👯 I’m looking to collaborate on Deep Learning (Increment Learning) and bigdata
-- 🤔 I’m looking for help with writing paper and Looking for a job
-- 📫 How to reach me: <a href="mailto:gs.axu21@gzu.edu.cn">toxuan1998@qq.com</a>
+- 🤔 I’m looking for help with writing paper and Looking for a job (**正在寻找一份实习工作**)
+- 📫 How to reach me: <a href="mailto:toxuan1998@qq.com">toxuan1998@qq.com</a>
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xu1Aan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xu1Aan&layout=compact&theme=buefy&hide_border=true" /></a> |
