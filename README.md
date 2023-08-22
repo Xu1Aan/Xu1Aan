@@ -14,7 +14,7 @@
 - 🔭 I’m currently studying at State Key Laboratory of Public Big Data of GZU
 - 🌱 I’m currently learning **Machine Learning & Java(大数据、后端)**
 - 👯 I’m looking to collaborate on Deep Learning (Increment Learning) and bigdata
-- 🤔 I’m looking for help with writing paper and Looking for a job (**正在寻找一份实习工作**)
+- 🤔 I’m looking for a job (**24届应届，正在寻找工作**)
 - 📫 How to reach me: <a href="mailto:toxuan1998@qq.com">toxuan1998@qq.com</a>
 
 
